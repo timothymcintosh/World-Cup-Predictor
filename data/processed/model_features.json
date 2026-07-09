@@ -1,0 +1,23 @@
+[
+  "home_win_rate",
+  "away_win_rate",
+  "home_draw_rate",
+  "away_draw_rate",
+  "home_loss_rate",
+  "away_loss_rate",
+  "home_avg_goals_for",
+  "away_avg_goals_for",
+  "home_avg_goals_against",
+  "away_avg_goals_against",
+  "home_avg_goal_diff",
+  "away_avg_goal_diff",
+  "win_rate_diff",
+  "draw_rate_diff",
+  "loss_rate_diff",
+  "goals_for_diff",
+  "goals_against_diff",
+  "goal_diff_recent_diff",
+  "neutral",
+  "home_field_advantage",
+  "is_world_cup"
+]
